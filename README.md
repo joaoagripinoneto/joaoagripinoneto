@@ -10,7 +10,7 @@
 
 <hr>
 
-<h3 align="center"><strong>Estudante de FullStack </strong>  💻</h3>
+<h3 align="center"> 💻 <strong>Estudante de FullStack </strong> </h3>
 
 <p align="center">
   <strong>Entrando no fantástico mundo dos códigos</strong>
