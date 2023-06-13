@@ -1,28 +1,23 @@
-<h2> E aí galerinha, sou <strong>João Neto</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-
-<h3> :man_office_worker: 💻 Quem sou eu: </h3>
-
-- 🎓 &nbsp; <strong>Graduado em administração</strong>
-- :computer: &nbsp; <strong>Estudante de Full Stack</strong>
-- 
-
-<h3>:atom: Futuras competências Técnicas: </h3>
-
-- 💻 &nbsp; <strong>Javascript, HTML, CSS</strong>
+<h1 align="center"> E aí galerinha, sou <strong>João Neto.</strong> Bem-vindos ao meu perfil.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <div align="center">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/jo%C3%A3o-neto-8b5a60158/)" /></a>
   
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-  
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=SEU-LINKEDIN-AQUI)](https://www.linkedin.com/in/jo%C3%A3o-neto-8b5a60158/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=black&logoColor=white&link=mailto:SEU-EMAIL-AQUI)](mailto:joaoagripinoneto@gmail.com)
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-<div>
+</div>
+
+<hr>
+
+<h3 align="center"><strong>Estudante de FullStack </strong>  💻</h3>
+
+<p align="center">
+  <strong>Entrando no fantástico mundo dos códigos</strong>
+</p>
+
+<div align="center">
+
+  <img align="center" src="https://media4.giphy.com/media/10slg1GcTPwkmc/giphy.gif" alt="GIF animado">
+
+</div>
